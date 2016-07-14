@@ -1,5 +1,5 @@
 # Books
-### A list of books I learn the .net
+### A list of books about I learn the .net
 分享我在学习.NET过程中看过的部分书籍。 
 
 ### C# Language
@@ -7,6 +7,7 @@
 2. 《深入理解C#》
 3. 《C#6.0 CookBook》
 4. 《C#语言规范5.0》
+5. 《C#程序设计语言》
 
 ### 多线程&异步编程
 5. 《C#线程参考手册》
@@ -34,6 +35,7 @@
 ### 架构设计
 22. 《Microsoft.NET企业级应用架构设计》
 23. 《企业应用架构模式》
+24. 《面向方面的软件开发》
 
 
 ### 未完待续 ...

@@ -33,7 +33,7 @@
      
      <img src="images/Effective_csharp.jpg" alt="C#高效编程 : 改进C#代码的50个行之有效的办法(第2版)" height="320"/>
 
-4. [《More Effective C#中文版 : 改善C#程序的50个具体办法》](https://book.douban.com/subject/25843328/)  
+4. [《More Effective C#中文版 : 改善C#程序的50个具体办法》](https://book.douban.com/subject/4101150/)  
      
      <img src="images/More_Effective_csharp.jpg" alt="More Effective C#中文版 : 改善C#程序的50个具体办法" height="320"/>
 
